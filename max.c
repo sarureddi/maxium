@@ -1,6 +1,5 @@
 # maxium
 #include<stdio.h>
-#include<conio.h>
 int largest(int arr[], int n) 
 { 
     int i;
